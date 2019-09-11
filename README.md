@@ -5,3 +5,5 @@ making test examples and all that while reading the programming kotlin book
 [![Build Status](https://travis-ci.org/orieken/programming-kotlin.svg?branch=master)](https://travis-ci.org/orieken/programming-kotlin)
 
 ## tasks
+
+* continuous testing with `gradle test -t`
